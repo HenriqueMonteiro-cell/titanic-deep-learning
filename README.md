@@ -1,27 +1,21 @@
-# 🚢 Projeto Titanic: Deep Learning com Keras e TensorFlow
-**Candidato:** [Seu Nome Aqui]
-**Perfil:** Desenvolvedor Júnior - IA (Edital Dell/IMD 2026)
+# 🚢 Titanic Data Science: Explorando Deep Learning com Keras
+**Por: Henrique Monteiro**
 
-Este repositório contém a implementação de uma Rede Neural Artificial para prever a sobrevivência de passageiros do Titanic. O projeto foi desenvolvido focando nos requisitos técnicos do edital da Dell Technologies em parceria com o IMD/UFRN.
+Este repositório é parte dos meus estudos contínuos em Ciência de Dados e Inteligência Artificial. O objetivo aqui foi aplicar modelos de Redes Neurais em um problema clássico de classificação, unindo a base matemática da minha graduação em Física com ferramentas modernas de IA.
 
----
+## 🚀 Sobre o Projeto
+Neste experimento, busquei entender como diferentes arquiteturas de redes neurais se comportam na predição de sobrevivência do dataset Titanic. Foquei especialmente na etapa de **Feature Engineering** para garantir que os dados físicos (como idade e tarifa) estivessem devidamente tratados antes de alimentarem o modelo.
 
-## 🔬 Abordagem Científica
-Como graduando em Física na UFRN, utilizei minha base analítica para o tratamento de dados e para compreender a estrutura de otimização da rede neural durante o treinamento.
-
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Stack Utilizada
 * **Linguagem:** Python
-* **Biblioteca de IA:** Keras / TensorFlow
-* **Manipulação de Dados:** Pandas e NumPy
-* **Engenharia de Características:** Scikit-Learn (StandardScaler e OneHotEncoder)
+* **IA:** TensorFlow & Keras
+* **Análise de Dados:** Pandas, NumPy e Scikit-Learn
 
-## 🏗️ Arquitetura do Modelo
-O modelo foi construído utilizando uma estrutura `Sequential` com:
-1. **Camada de Entrada:** Processamento das features padronizadas.
-2. **Camadas Ocultas:** 16 e 8 neurônios com ativação **ReLU** para captar não-linearidades.
-3. **Camada de Saída:** 1 neurônio com ativação **Sigmoid** para classificação binária.
+## 🧠 O que foi explorado
+* Tratamento de dados ausentes e codificação de variáveis categóricas.
+* Implementação de uma rede `Sequential` com camadas densas.
+* Avaliação de performance através de **Matriz de Confusão** e métricas de precisão/recall, indo além da acurácia simples.
 
-## 📊 Métricas de Avaliação
-O desempenho foi avaliado além da acurácia nominal, utilizando:
-* **Matriz de Confusão:** Para diagnóstico de Falsos Positivos e Negativos.
+## 📈 Evolução
+Este projeto é um "work in progress". Atualmente, estou integrando estes resultados com estudos de **SQL** e **IA Generativa (RAG)** para criar fluxos de dados mais complexos..
 * **Recall e Precisão:** Essenciais para entender a sensibilidade do modelo.
