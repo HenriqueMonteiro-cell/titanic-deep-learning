@@ -4,7 +4,7 @@
 Este repositório é parte dos meus estudos contínuos em Ciência de Dados e Inteligência Artificial. O objetivo aqui foi aplicar modelos de Redes Neurais em um problema clássico de classificação, unindo a base matemática aprendida na graduação em Física com ferramentas modernas de IA.
 
 ## 🚀 Sobre o Projeto
-Neste experimento, busquei entender como diferentes arquiteturas de redes neurais se comportam na predição de sobrevivência do dataset Titanic. Foquei especialmente na etapa de **Feature Engineering** para garantir que os dados físicos (como idade e tarifa) estivessem devidamente tratados antes de alimentarem o modelo.
+Neste experimento, explorei o impacto de diferentes configurações de hiperparâmetros (como o número de neurônios e camadas) na predição de sobrevivência do dataset Titanic.
 
 ## 🛠️ Stack Utilizada
 * **Linguagem:** Python
