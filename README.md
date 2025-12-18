@@ -7,7 +7,7 @@ Este repositório contém a implementação de uma Rede Neural Artificial para p
 ---
 
 ## 🔬 Abordagem Científica
-Como graduando em Física na UFRN, apliquei neste projeto o rigor analítico para o tratamento de dados, entendendo a rede neural como um sistema de otimização de parâmetros para minimização de uma função de custo (Loss).
+Como graduando em Física na UFRN, utilizei minha base analítica para o tratamento de dados e para compreender a estrutura de otimização da rede neural durante o treinamento.
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python
