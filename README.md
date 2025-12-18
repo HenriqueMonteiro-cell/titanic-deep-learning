@@ -1,7 +1,7 @@
 # 🚢 Titanic Data Science: Explorando Deep Learning com Keras
 **Por: Henrique Monteiro**
 
-Este repositório é parte dos meus estudos contínuos em Ciência de Dados e Inteligência Artificial. O objetivo aqui foi aplicar modelos de Redes Neurais em um problema clássico de classificação, unindo a base matemática da minha graduação em Física com ferramentas modernas de IA.
+Este repositório é parte dos meus estudos contínuos em Ciência de Dados e Inteligência Artificial. O objetivo aqui foi aplicar modelos de Redes Neurais em um problema clássico de classificação, unindo a base matemática aprendida na graduação em Física com ferramentas modernas de IA.
 
 ## 🚀 Sobre o Projeto
 Neste experimento, busquei entender como diferentes arquiteturas de redes neurais se comportam na predição de sobrevivência do dataset Titanic. Foquei especialmente na etapa de **Feature Engineering** para garantir que os dados físicos (como idade e tarifa) estivessem devidamente tratados antes de alimentarem o modelo.
