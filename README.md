@@ -31,5 +31,7 @@ A análise comparativa revelou que, para este conjunto de dados, o **SVM (Suppor
 
 A padronização dos dados foi o divisor de águas, permitindo que o SVM encontrasse o hiperplano de separação ideal. O projeto conclui que a escolha do modelo deve ser sempre pautada pela natureza dos dados e pela eficiência computacional.
 
-* Aprofundamento em **SQL** para manipulação de bancos de dados estruturados.
-* Estudo de arquiteturas de **IA Generativa** e técnicas de RAG.
+
+
+
+
