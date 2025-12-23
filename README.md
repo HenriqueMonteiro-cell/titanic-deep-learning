@@ -23,10 +23,13 @@ Para validar a eficácia da Rede Neural, realizei um teste comparativo com model
 
 ## 📉 O que foi explorado
 * **Pré-processamento:** Tratamento de dados ausentes e aplicação de **StandardScaler** para garantir a convergência dos gradientes na Rede Neural.
-* **Avaliação de Performance:** Uso de **Matrizes de Confusão** individuais (em gradientes de cor Blue, Green e Red) para identificar falsos positivos e negativos em cada modelo.
-* **Análise Crítica:** Investigação de como o tamanho do dataset influencia a performance de modelos de Deep Learning comparados a modelos estatísticos clássicos.
+* **Avaliação de Performance:** Uso de **Matrizes de Confusão** individuais para identificar a sensibilidade dos modelos em relação a falsos positivos e negativos.
+* **Análise de Hiperparâmetros:** Ajuste de épocas e tamanho de lote (batch size) para otimização do treinamento dos neurônios.
 
-## 📈 Próximos Objetivos de Estudo
-Este projeto encerra a etapa de classificação binária. Meus próximos passos planejados na trilha de aprendizado incluem:
+## 🏁 Conclusão Técnica
+A análise comparativa revelou que, para este conjunto de dados, o **SVM (Support Vector Classifier)** apresentou a melhor performance. Este resultado reforça um princípio fundamental da Ciência de Dados: a complexidade de um modelo (como uma Rede Neural) nem sempre supera algoritmos estatísticos clássicos em datasets de menor escala. 
+
+A padronização dos dados foi o divisor de águas, permitindo que o SVM encontrasse o hiperplano de separação ideal. O projeto conclui que a escolha do modelo deve ser sempre pautada pela natureza dos dados e pela eficiência computacional.
+
 * Aprofundamento em **SQL** para manipulação de bancos de dados estruturados.
 * Estudo de arquiteturas de **IA Generativa** e técnicas de RAG.
