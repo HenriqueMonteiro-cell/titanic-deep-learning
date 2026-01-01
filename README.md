@@ -18,7 +18,7 @@ Para validar a eficácia da Rede Neural, realizei um teste comparativo com model
 | Modelo | Acurácia (Teste) | Característica |
 | :--- | :--- | :--- |
 | **SVM (SVC)** | **81.56%** | Vencedor: Melhor separação geométrica dos dados padronizados. |
-| **Rede Neural** | 81.01% | Alta capacidade de generalização com camadas ReLU. |
+| **Rede Neural** | 80.45% | Alta capacidade de generalização com camadas ReLU. |
 | **Random Forest** | 81.01% | Robustez excepcional para dados tabulares. |
 
 ## 📉 O que foi explorado
